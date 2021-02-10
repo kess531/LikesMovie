@@ -23,8 +23,10 @@
 
 ### 메인화면
 ![index.png](/Readmeimg/index.png)
+
 ### 영화리스트
 ![list.png](/Readmeimg/list.png)
+
 ### 영화정보 및 리뷰
 ![content.png](/Readmeimg/content.png)
 
