@@ -9,9 +9,7 @@
       </ul>
     </li>
  <li><a href="#핵심-코드">핵심코드</a></li>
-
-    <li><a href="#contact">Contact</a></li>
-  </ol>
+ <li><a href="#contact">Contact</a></li>
 </details>
 
 
